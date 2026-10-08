@@ -27,10 +27,10 @@ RUN npm ci --omit=dev
 # Copy built frontend assets
 COPY --from=builder /app/dist ./dist
 
-# Copy backend server code, schema, types, and initial data
+# Copy backend server code, schema, source utilities, and initial data
 COPY server ./server
 COPY data ./data
-COPY src/types.ts ./src/types.ts
+COPY src ./src
 COPY tsconfig.json ./
 
 EXPOSE 3000
