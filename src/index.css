@@ -1,0 +1,126 @@
+@import "tailwindcss";
+
+@theme {
+  --color-indigo-50: #fdf6f1;
+  --color-indigo-100: #fbeade;
+  --color-indigo-200: #f7d6be;
+  --color-indigo-300: #f1b387;
+  --color-indigo-400: #eb8e4b;
+  --color-indigo-500: #f8771a;
+  --color-indigo-600: #f56a07;
+  --color-indigo-700: #d05a05;
+  --color-indigo-800: #a54c0d;
+  --color-indigo-900: #843d0a;
+  --color-indigo-950: #4b2206;
+
+  --color-purple-50: #fdf6f1;
+  --color-purple-100: #fbeade;
+  --color-purple-200: #f7d6be;
+  --color-purple-300: #f1b387;
+  --color-purple-400: #eb8e4b;
+  --color-purple-500: #f8771a;
+  --color-purple-600: #f56a07;
+  --color-purple-700: #d05a05;
+  --color-purple-800: #a54c0d;
+  --color-purple-900: #843d0a;
+  --color-purple-950: #4b2206;
+
+  --color-brand: #f56a07;
+  --color-brand-hover: #d05a05;
+}
+
+/* ==========================================================================
+   Pointer (Hand) Cursor for Clickable & Interactive Components
+   ========================================================================== */
+
+/* 1. All native interactive controls, buttons, links, and ARIA roles */
+button,
+[role="button"],
+[role="tab"],
+[role="menuitem"],
+[role="option"],
+[role="checkbox"],
+[role="switch"],
+[role="radio"],
+a,
+select,
+summary,
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+input[type="checkbox"],
+input[type="radio"],
+input[type="file"],
+label[for],
+label:has(input),
+.cursor-pointer,
+[tabindex="0"]:not([aria-disabled="true"]) {
+  cursor: pointer;
+}
+
+/* 2. File upload dropzones and interactive triggers */
+label:has(input[type="file"]),
+.border-dashed.cursor-pointer,
+div[class*="border-dashed"].cursor-pointer {
+  cursor: pointer;
+}
+
+/* 3. Text inputs & textareas must retain standard text selection cursor */
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="tel"],
+input[type="url"],
+input[type="date"],
+input[type="datetime-local"],
+textarea {
+  cursor: text;
+}
+
+/* 4. Disabled states explicitly show not-allowed cursor */
+button:disabled,
+button[disabled],
+[role="button"][aria-disabled="true"],
+[role="tab"][aria-disabled="true"],
+input:disabled,
+select:disabled,
+textarea:disabled,
+[aria-disabled="true"],
+.cursor-not-allowed {
+  cursor: not-allowed !important;
+}
+
+/* ==========================================================================
+   Hide Vertical & Horizontal Scrollbars on Main Body & Sidebar
+   (Maintains full scrolling functionality while hiding visible scrollbars)
+   ========================================================================== */
+html,
+body,
+#root,
+main,
+#main-body-container,
+.no-scrollbar,
+aside,
+aside nav,
+aside * {
+  scrollbar-width: none !important;
+  -ms-overflow-style: none !important;
+}
+
+html::-webkit-scrollbar,
+body::-webkit-scrollbar,
+#root::-webkit-scrollbar,
+main::-webkit-scrollbar,
+#main-body-container::-webkit-scrollbar,
+.no-scrollbar::-webkit-scrollbar,
+aside::-webkit-scrollbar,
+aside nav::-webkit-scrollbar,
+aside *::-webkit-scrollbar {
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+}
+
+

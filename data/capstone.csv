@@ -1,0 +1,115 @@
+﻿record_path,type,part,value
+[],object,0,
+"[""values""]",object,0,
+"[""values"",""cpms_accounts_v1""]",array,0,
+"[""values"",""cpms_accounts_v1"",""0""]",object,0,
+"[""values"",""cpms_accounts_v1"",""0"",""id""]",value,0,"""\""707599ee-e38f-4298-8225-4597632d2b77\"""""
+"[""values"",""cpms_accounts_v1"",""0"",""username""]",value,0,"""\""crisnielanthonny.gulfan\"""""
+"[""values"",""cpms_accounts_v1"",""0"",""firstName""]",value,0,"""\""Cris Niel Anthonny\"""""
+"[""values"",""cpms_accounts_v1"",""0"",""lastName""]",value,0,"""\""Gulfan\"""""
+"[""values"",""cpms_accounts_v1"",""0"",""role""]",value,0,"""\""instructor\"""""
+"[""values"",""cpms_accounts_v1"",""0"",""passwordHash""]",value,0,"""\""pbkdf2:1e3e5c18550bde24742438dd083083fc:d5e43aed2954a4c43760e72e5f665c54ad3f03d1e8e05810dbe5e130c44b9ff4\"""""
+"[""values"",""cpms_accounts_v1"",""0"",""mustChangePassword""]",value,0,"""false"""
+"[""values"",""cpms_accounts_v1"",""1""]",object,0,
+"[""values"",""cpms_accounts_v1"",""1"",""id""]",value,0,"""\""mem-1791259602746-75my\"""""
+"[""values"",""cpms_accounts_v1"",""1"",""username""]",value,0,"""\""charmangel.balabat\"""""
+"[""values"",""cpms_accounts_v1"",""1"",""firstName""]",value,0,"""\""Charm Angel\"""""
+"[""values"",""cpms_accounts_v1"",""1"",""lastName""]",value,0,"""\""Balabat\"""""
+"[""values"",""cpms_accounts_v1"",""1"",""role""]",value,0,"""\""student\"""""
+"[""values"",""cpms_accounts_v1"",""1"",""groupId""]",value,0,"""\""grp-1791259602746\"""""
+"[""values"",""cpms_accounts_v1"",""1"",""studentRoles""]",array,0,
+"[""values"",""cpms_accounts_v1"",""1"",""studentRoles"",""0""]",value,0,"""\""Project Manager\"""""
+"[""values"",""cpms_accounts_v1"",""1"",""mustChangePassword""]",value,0,"""false"""
+"[""values"",""cpms_accounts_v1"",""1"",""passwordHash""]",value,0,"""\""pbkdf2:2548b93684e137dbbb9b9c3a1c12e76b:ca23335390f375f150fab9949cb8997ea8c8055bd43a83430931a777525cacd8\"""""
+"[""values"",""cpms_accounts_v1"",""2""]",object,0,
+"[""values"",""cpms_accounts_v1"",""2"",""id""]",value,0,"""\""mem-1791259602746-g6qx\"""""
+"[""values"",""cpms_accounts_v1"",""2"",""username""]",value,0,"""\""marystephany.mendoza\"""""
+"[""values"",""cpms_accounts_v1"",""2"",""firstName""]",value,0,"""\""Mary Stephany\"""""
+"[""values"",""cpms_accounts_v1"",""2"",""lastName""]",value,0,"""\""Mendoza\"""""
+"[""values"",""cpms_accounts_v1"",""2"",""role""]",value,0,"""\""student\"""""
+"[""values"",""cpms_accounts_v1"",""2"",""groupId""]",value,0,"""\""grp-1791259602746\"""""
+"[""values"",""cpms_accounts_v1"",""2"",""studentRoles""]",array,0,
+"[""values"",""cpms_accounts_v1"",""2"",""studentRoles"",""0""]",value,0,"""\""Systems Analyst\"""""
+"[""values"",""cpms_accounts_v1"",""2"",""mustChangePassword""]",value,0,"""true"""
+"[""values"",""cpms_accounts_v1"",""3""]",object,0,
+"[""values"",""cpms_accounts_v1"",""3"",""id""]",value,0,"""\""mem-1791259602746-aijv\"""""
+"[""values"",""cpms_accounts_v1"",""3"",""username""]",value,0,"""\""rafael.degracia\"""""
+"[""values"",""cpms_accounts_v1"",""3"",""firstName""]",value,0,"""\""Rafael\"""""
+"[""values"",""cpms_accounts_v1"",""3"",""lastName""]",value,0,"""\""De Gracia\"""""
+"[""values"",""cpms_accounts_v1"",""3"",""role""]",value,0,"""\""student\"""""
+"[""values"",""cpms_accounts_v1"",""3"",""groupId""]",value,0,"""\""grp-1791259602746\"""""
+"[""values"",""cpms_accounts_v1"",""3"",""studentRoles""]",array,0,
+"[""values"",""cpms_accounts_v1"",""3"",""studentRoles"",""0""]",value,0,"""\""Programmer\"""""
+"[""values"",""cpms_accounts_v1"",""3"",""mustChangePassword""]",value,0,"""true"""
+"[""values"",""cpms_offices_v1""]",array,0,
+"[""values"",""cpms_offices_v1"",""0""]",object,0,
+"[""values"",""cpms_offices_v1"",""0"",""id""]",value,0,"""\""off-1791209756081\"""""
+"[""values"",""cpms_offices_v1"",""0"",""name""]",value,0,"""\""Office of the Vice Chancellor for Academic Affairs\"""""
+"[""values"",""cpms_offices_v1"",""0"",""code""]",value,0,"""\""OVCAA\"""""
+"[""values"",""cpms_offices_v1"",""0"",""subOffices""]",array,0,
+"[""values"",""cpms_offices_v1"",""0"",""subOffices"",""0""]",object,0,
+"[""values"",""cpms_offices_v1"",""0"",""subOffices"",""0"",""id""]",value,0,"""\""sub-1791210005686\"""""
+"[""values"",""cpms_offices_v1"",""0"",""subOffices"",""0"",""officeId""]",value,0,"""\""off-1791209756081\"""""
+"[""values"",""cpms_offices_v1"",""0"",""subOffices"",""0"",""name""]",value,0,"""\""College of Business and Information Technology\"""""
+"[""values"",""cpms_offices_v1"",""0"",""subOffices"",""0"",""code""]",value,0,"""\""CBIT\"""""
+"[""values"",""cpms_offices_v1"",""0"",""subOffices"",""1""]",object,0,
+"[""values"",""cpms_offices_v1"",""0"",""subOffices"",""1"",""id""]",value,0,"""\""sub-1791259172437\"""""
+"[""values"",""cpms_offices_v1"",""0"",""subOffices"",""1"",""officeId""]",value,0,"""\""off-1791209756081\"""""
+"[""values"",""cpms_offices_v1"",""0"",""subOffices"",""1"",""name""]",value,0,"""\""Mindanao State University at Naawan - Intergrated Developmental SChool\"""""
+"[""values"",""cpms_offices_v1"",""0"",""subOffices"",""1"",""code""]",value,0,"""\""MSUN-IDS\"""""
+"[""values"",""cpms_offices_v1"",""1""]",object,0,
+"[""values"",""cpms_offices_v1"",""1"",""id""]",value,0,"""\""off-1791209801208\"""""
+"[""values"",""cpms_offices_v1"",""1"",""name""]",value,0,"""\""Office of the Vice Chancellor for Student Affairs and Services\"""""
+"[""values"",""cpms_offices_v1"",""1"",""code""]",value,0,"""\""OVCSAS\"""""
+"[""values"",""cpms_offices_v1"",""1"",""subOffices""]",array,0,
+"[""values"",""cpms_offices_v1"",""2""]",object,0,
+"[""values"",""cpms_offices_v1"",""2"",""id""]",value,0,"""\""off-1791209827245\"""""
+"[""values"",""cpms_offices_v1"",""2"",""name""]",value,0,"""\""Office of the Vice Chancellor for Strategic Planning and Initiatives\"""""
+"[""values"",""cpms_offices_v1"",""2"",""code""]",value,0,"""\""OVCSPI\"""""
+"[""values"",""cpms_offices_v1"",""2"",""subOffices""]",array,0,
+"[""values"",""cpms_offices_v1"",""3""]",object,0,
+"[""values"",""cpms_offices_v1"",""3"",""id""]",value,0,"""\""off-1791209980753\"""""
+"[""values"",""cpms_offices_v1"",""3"",""name""]",value,0,"""\""Office of the Vice Chancellor for Administration and Finance\"""""
+"[""values"",""cpms_offices_v1"",""3"",""code""]",value,0,"""\""OVCAF\"""""
+"[""values"",""cpms_offices_v1"",""3"",""subOffices""]",array,0,
+"[""values"",""cpms_offices_v1"",""3"",""subOffices"",""0""]",object,0,
+"[""values"",""cpms_offices_v1"",""3"",""subOffices"",""0"",""id""]",value,0,"""\""sub-1791259858350\"""""
+"[""values"",""cpms_offices_v1"",""3"",""subOffices"",""0"",""officeId""]",value,0,"""\""off-1791209980753\"""""
+"[""values"",""cpms_offices_v1"",""3"",""subOffices"",""0"",""name""]",value,0,"""\""Office of the Human Resource Management\"""""
+"[""values"",""cpms_offices_v1"",""3"",""subOffices"",""0"",""code""]",value,0,"""\""OHRM\"""""
+"[""values"",""cpms_groups_v1""]",array,0,
+"[""values"",""cpms_groups_v1"",""0""]",object,0,
+"[""values"",""cpms_groups_v1"",""0"",""id""]",value,0,"""\""grp-1791259602746\"""""
+"[""values"",""cpms_groups_v1"",""0"",""title""]",value,0,"""\""iGrade: An Academic Performance and Early Academic Risk Predictions for the Teachers of MSUN-IDS\"""""
+"[""values"",""cpms_groups_v1"",""0"",""officeId""]",value,0,"""\""off-1791209756081\"""""
+"[""values"",""cpms_groups_v1"",""0"",""subOfficeId""]",value,0,"""\""sub-1791259172437\"""""
+"[""values"",""cpms_groups_v1"",""0"",""clientNames""]",array,0,
+"[""values"",""cpms_groups_v1"",""0"",""clientNames"",""0""]",value,0,"""\""Asst. Prof. Marchie B. Nadonza\"""""
+"[""values"",""cpms_groups_v1"",""0"",""members""]",array,0,
+"[""values"",""cpms_groups_v1"",""0"",""members"",""0""]",object,0,
+"[""values"",""cpms_groups_v1"",""0"",""members"",""0"",""id""]",value,0,"""\""mem-1791259602746-75my\"""""
+"[""values"",""cpms_groups_v1"",""0"",""members"",""0"",""firstName""]",value,0,"""\""Charm Angel\"""""
+"[""values"",""cpms_groups_v1"",""0"",""members"",""0"",""lastName""]",value,0,"""\""Balabat\"""""
+"[""values"",""cpms_groups_v1"",""0"",""members"",""0"",""username""]",value,0,"""\""charmangel.balabat\"""""
+"[""values"",""cpms_groups_v1"",""0"",""members"",""0"",""roles""]",array,0,
+"[""values"",""cpms_groups_v1"",""0"",""members"",""0"",""roles"",""0""]",value,0,"""\""Project Manager\"""""
+"[""values"",""cpms_groups_v1"",""0"",""members"",""0"",""mustChangePassword""]",value,0,"""true"""
+"[""values"",""cpms_groups_v1"",""0"",""members"",""1""]",object,0,
+"[""values"",""cpms_groups_v1"",""0"",""members"",""1"",""id""]",value,0,"""\""mem-1791259602746-g6qx\"""""
+"[""values"",""cpms_groups_v1"",""0"",""members"",""1"",""firstName""]",value,0,"""\""Mary Stephany\"""""
+"[""values"",""cpms_groups_v1"",""0"",""members"",""1"",""lastName""]",value,0,"""\""Mendoza\"""""
+"[""values"",""cpms_groups_v1"",""0"",""members"",""1"",""username""]",value,0,"""\""marystephany.mendoza\"""""
+"[""values"",""cpms_groups_v1"",""0"",""members"",""1"",""roles""]",array,0,
+"[""values"",""cpms_groups_v1"",""0"",""members"",""1"",""roles"",""0""]",value,0,"""\""Systems Analyst\"""""
+"[""values"",""cpms_groups_v1"",""0"",""members"",""1"",""mustChangePassword""]",value,0,"""true"""
+"[""values"",""cpms_groups_v1"",""0"",""members"",""2""]",object,0,
+"[""values"",""cpms_groups_v1"",""0"",""members"",""2"",""id""]",value,0,"""\""mem-1791259602746-aijv\"""""
+"[""values"",""cpms_groups_v1"",""0"",""members"",""2"",""firstName""]",value,0,"""\""Rafael\"""""
+"[""values"",""cpms_groups_v1"",""0"",""members"",""2"",""lastName""]",value,0,"""\""De Gracia\"""""
+"[""values"",""cpms_groups_v1"",""0"",""members"",""2"",""username""]",value,0,"""\""rafael.degracia\"""""
+"[""values"",""cpms_groups_v1"",""0"",""members"",""2"",""roles""]",array,0,
+"[""values"",""cpms_groups_v1"",""0"",""members"",""2"",""roles"",""0""]",value,0,"""\""Programmer\"""""
+"[""values"",""cpms_groups_v1"",""0"",""members"",""2"",""mustChangePassword""]",value,0,"""true"""
+"[""values"",""cpms_groups_v1"",""0"",""createdAt""]",value,0,"""\""2026-10-06T04:06:42.746Z\"""""
+"[""files""]",object,0,
+"[""revision""]",value,0,"""12"""
